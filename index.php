@@ -1,3 +1,3 @@
 <?php
-include_once("./index-4.html");
+include_once("index-4.html");
 ?>
